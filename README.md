@@ -3,7 +3,8 @@
 ## Assignment submissions of the course Machine Learning (CS60050) at IIT Kharagpur
 
 Authors:
-Mayank Kumar (19CS30029)
+
+Mayank Kumar (19CS30029)\
 Shristi Singh (19CS10057)
 
 ## Decision Tree
