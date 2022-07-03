@@ -15,4 +15,5 @@ Prepared by: Mayank Kumar (19CS30029) and Shristi Singh (19CS10057)
 
 - Alternatively, you can press `Ctrl + Enter` to run a particular highlighted cell. Make sure that the cells are being run in order they are present in the notebook.
 
-The submitted folder contains the code and a report that analyzes the dataset, explains the procedure, and presents results and its analysis. The report includes all the outputs and plots printed by the notebook.
+The folder contains the code and a report that analyzes the dataset, explains the procedure, and presents results and its analysis.
+The report includes all the outputs and plots printed by the notebook.
